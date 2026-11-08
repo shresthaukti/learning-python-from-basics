@@ -6,4 +6,5 @@ Learning python from basics and implementing it<br>
 4> Basic projects<br>
 5> Error handling<br>
 6> Python libraries<br>
+<br>
 (note: references: freecodecamp, youtube videos )<br>
